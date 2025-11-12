@@ -33,7 +33,7 @@ export function Navbar() {
       <nav className="navbar">
         <div className="logo">
           <Link to="/" onClick={closeMenu}>
-            <img src="../public/logo-p.png" alt="Logo" className="icono-logo"/>
+            <img src="public\logo-p.png" alt="Logo" className="icono-logo"/>
             <span>Yu-Gi-Oh Store</span>
           </Link>
         </div>
